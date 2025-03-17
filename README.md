@@ -1,6 +1,6 @@
 
 派大星女士
-<爱你呦！＾3＾>
+爱你呦！＾3＾
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">

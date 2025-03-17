@@ -1,5 +1,5 @@
 
-派大星
+派大星女士
 <爱你呦！>
 <html lang="zh-CN">
 <head>
@@ -49,7 +49,7 @@
     </style>
 </head>
 <body>
-<h1>亲爱的，我喜欢你！</h1>
+<h1>亲爱的，我超级喜欢你！</h1>
 <p>自从遇见你，我的世界变得如此美好。<br>每一天和你在一起，都让我感到幸福与温暖。</p>
 <div class="heart">️</div>
 <button onclick="alert('我也喜欢你！')">点这里告诉我你的答案吧</button>
